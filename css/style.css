@@ -1,0 +1,39 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+
+}
+.subheader {
+    display: flex;
+    flex:1;
+    align-items: center;
+    margin-left: 140px;
+    font-size: x-large;
+    margin-top: 0;
+}
+.subhead li {
+    list-style-type: none;
+    display: inline;
+}
+.logo img {
+    width: 100%;
+    height:450px;
+}
+.underlogo {
+    display: flex;
+    align-items:center;
+    text-align: center;
+}
+.lastpic {
+    display: flex;
+}
+.lastpic img {
+    width:100%;
+}
+.list li {
+    list-style-type: none;
+}
+footer {
+    text-align: center;
+}
